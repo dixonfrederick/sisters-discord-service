@@ -1,0 +1,29 @@
+{
+  "name": "sisters-discord-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@iamtraction/google-translate": "^2.0.1",
+    "axios": "^1.6.7",
+    "discord-gamecord": "^4.4.1",
+    "discord-reply": "^0.1.2",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.0.0",
+    "images-scraper": "^6.4.5",
+    "openai": "^4.28.0",
+    "rsnchat": "^3.0.8",
+    "simple-spellchecker": "^1.0.2",
+    "wikijs": "^6.4.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.30.0",
+    "nodemon": "^2.0.15"
+  }
+}
